@@ -1,0 +1,21 @@
+# OS/metadata
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/build/
+/bin/
+/out/
+*.dll
+*.lib
+*.exp
+*.obj
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+
+# Windows-specific
+*.suo
+*.user
